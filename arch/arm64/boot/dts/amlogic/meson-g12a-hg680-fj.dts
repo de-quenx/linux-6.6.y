@@ -7,7 +7,7 @@
 
 / {
 	compatible = "hg680,fj", "amlogic,g12a";
-	model = "HG680-FJ";
+	model = "HG680-FJ ✧ s905x2";
 
 	vddgpu: regulator-vddgpu {
 		compatible = "regulator-fixed";
